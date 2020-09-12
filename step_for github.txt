@@ -4,4 +4,6 @@ git add .
 git commit -m "first commit"
 git remote add origin https://github.com/harshyadav1508/sweetviz.git
 git push -u origin master
-                
+
+
+or we can create 1 repo with two branch

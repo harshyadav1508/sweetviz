@@ -6,8 +6,4 @@ git remote add origin https://github.com/harshyadav1508/sweetviz.git
 git push -u origin master
 
 
-or we can create 1 repo with two branch
-testing git
-trying git on WB
-testing again 
-edyhara
+testing....
